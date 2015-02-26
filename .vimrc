@@ -30,6 +30,7 @@ colorscheme zenburn
 filetype plugin indent on    " required
 
 set tabstop=4
+set shiftwidth=4
 set undofile
 set hlsearch
 set relativenumber
