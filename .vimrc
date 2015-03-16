@@ -38,6 +38,7 @@ set relativenumber
 " autocmd vimenter * NERDTree " automatically launches nerdtree
 
 let mapleader = ","
+let g:NERDTreeDirArrows=0
 
 nnoremap <leader>1 yypVr=           " puts a leader of = characters
 nnoremap <leader><space> :noh<cr>   " clears the highlights
